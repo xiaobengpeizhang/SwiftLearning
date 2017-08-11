@@ -17,3 +17,5 @@ for eachProvider in providers {
 if #available(iOS 18, *) {
     print("在iOS10执行")
 }
+
+/*  枚举  */
